@@ -8,7 +8,12 @@ Hopefully, we will be able to do that in the near future.
 ## [To be released in v2.0.0]
 - Equality is now fully based on the `==` method.
 
-## [To be released in v1.8.6]
+## [To be released in v1.9.1]
+
+### Added
+- New `Sound` class adds controls when playing audio files (https://github.com/uqbar-project/wollok/issues/1784).
+
+## [1.9.0] - 2019-10-06
 
 ### Added
 - New method `uniqueElement` in collections as defined by https://github.com/uqbar-project/wollok/issues/1779.
